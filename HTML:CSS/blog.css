@@ -1,0 +1,18 @@
+body {
+  background-color: #a9a9a9;
+  font-family: "Baskerville";
+}
+
+header {
+	color: white;
+}
+
+.niceParagraph {
+  background-color: #696969;
+  font-family: "Baskerville";
+}
+
+#finalParagraph {
+  background-color: #696969;
+  font-family: "Baskerville";
+}
